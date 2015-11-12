@@ -1,0 +1,22 @@
+CACHE MANIFEST
+#Version: HTML5 1.2.0 02/08/2014      1
+/ui-bg_flat_75_ffffff_40x100.png
+/ui-bg_glass_75_e6e6e6_1x400.png
+/ui-bg_highlight-soft_75_cccccc_1x100.png
+/ui-icons_222222_256x240.png
+
+
+
+# All other resources (e.sites) require the user to be online. 
+NETWORK:
+
+
+
+
+
+
+# Additional resources to cache 
+CACHE:
+home/Offline
+
+
